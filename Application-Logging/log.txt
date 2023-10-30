@@ -1,210 +1,105 @@
-Oct 29, 2023 8:07:22 PM Main main
-INFO: Program starting at : 29-10-2023 20:07:22
-Oct 29, 2023 8:07:23 PM Main main
-INFO: The first 100 odd numbers starting at 1
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 1
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 3
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 5
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 7
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 9
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 11
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 13
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 15
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 17
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 19
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 21
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 23
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 25
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 27
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 29
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 31
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 33
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 35
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 37
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 39
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 41
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 43
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 45
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 47
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 49
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 51
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 53
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 55
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 57
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 59
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 61
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 63
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 65
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 67
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 69
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 71
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 73
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 75
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 77
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 79
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 81
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 83
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 85
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 87
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 89
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 91
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 93
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 95
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 97
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 99
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 101
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 103
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 105
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 107
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 109
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 111
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 113
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 115
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 117
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 119
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 121
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 123
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 125
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 127
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 129
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 131
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 133
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 135
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 137
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 139
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 141
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 143
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 145
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 147
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 149
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 151
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 153
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 155
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 157
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 159
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 161
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 163
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 165
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 167
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 169
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 171
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 173
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 175
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 177
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 179
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 181
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 183
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 185
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 187
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 189
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 191
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 193
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 195
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 197
-Oct 29, 2023 8:07:23 PM Main main
-INFO: 199
-Oct 29, 2023 8:07:23 PM Main main
-WARNING: Example warning message
-Oct 29, 2023 8:07:23 PM Main main
-SEVERE: Example severe message
-Oct 29, 2023 8:07:23 PM Main main
-FINE: Program ending at : 29-10-2023 20:07:23
+2023-10-29 22:05:22 [INFO] Main main Program starting at : 29-10-2023 22:05:22
+2023-10-29 22:05:22 [INFO] Main main The first 100 odd numbers starting at 1
+2023-10-29 22:05:22 [INFO] Main main 1
+2023-10-29 22:05:22 [INFO] Main main 3
+2023-10-29 22:05:22 [INFO] Main main 5
+2023-10-29 22:05:22 [INFO] Main main 7
+2023-10-29 22:05:22 [INFO] Main main 9
+2023-10-29 22:05:22 [INFO] Main main 11
+2023-10-29 22:05:22 [INFO] Main main 13
+2023-10-29 22:05:22 [INFO] Main main 15
+2023-10-29 22:05:22 [INFO] Main main 17
+2023-10-29 22:05:22 [INFO] Main main 19
+2023-10-29 22:05:22 [INFO] Main main 21
+2023-10-29 22:05:22 [INFO] Main main 23
+2023-10-29 22:05:22 [INFO] Main main 25
+2023-10-29 22:05:22 [INFO] Main main 27
+2023-10-29 22:05:22 [INFO] Main main 29
+2023-10-29 22:05:22 [INFO] Main main 31
+2023-10-29 22:05:22 [INFO] Main main 33
+2023-10-29 22:05:22 [INFO] Main main 35
+2023-10-29 22:05:22 [INFO] Main main 37
+2023-10-29 22:05:22 [INFO] Main main 39
+2023-10-29 22:05:22 [INFO] Main main 41
+2023-10-29 22:05:22 [INFO] Main main 43
+2023-10-29 22:05:22 [INFO] Main main 45
+2023-10-29 22:05:22 [INFO] Main main 47
+2023-10-29 22:05:22 [INFO] Main main 49
+2023-10-29 22:05:22 [INFO] Main main 51
+2023-10-29 22:05:22 [INFO] Main main 53
+2023-10-29 22:05:22 [INFO] Main main 55
+2023-10-29 22:05:22 [INFO] Main main 57
+2023-10-29 22:05:22 [INFO] Main main 59
+2023-10-29 22:05:22 [INFO] Main main 61
+2023-10-29 22:05:22 [INFO] Main main 63
+2023-10-29 22:05:22 [INFO] Main main 65
+2023-10-29 22:05:22 [INFO] Main main 67
+2023-10-29 22:05:22 [INFO] Main main 69
+2023-10-29 22:05:22 [INFO] Main main 71
+2023-10-29 22:05:22 [INFO] Main main 73
+2023-10-29 22:05:22 [INFO] Main main 75
+2023-10-29 22:05:22 [INFO] Main main 77
+2023-10-29 22:05:22 [INFO] Main main 79
+2023-10-29 22:05:22 [INFO] Main main 81
+2023-10-29 22:05:22 [INFO] Main main 83
+2023-10-29 22:05:22 [INFO] Main main 85
+2023-10-29 22:05:22 [INFO] Main main 87
+2023-10-29 22:05:22 [INFO] Main main 89
+2023-10-29 22:05:22 [INFO] Main main 91
+2023-10-29 22:05:22 [INFO] Main main 93
+2023-10-29 22:05:22 [INFO] Main main 95
+2023-10-29 22:05:22 [INFO] Main main 97
+2023-10-29 22:05:22 [INFO] Main main 99
+2023-10-29 22:05:22 [INFO] Main main 101
+2023-10-29 22:05:22 [INFO] Main main 103
+2023-10-29 22:05:22 [INFO] Main main 105
+2023-10-29 22:05:22 [INFO] Main main 107
+2023-10-29 22:05:22 [INFO] Main main 109
+2023-10-29 22:05:22 [INFO] Main main 111
+2023-10-29 22:05:22 [INFO] Main main 113
+2023-10-29 22:05:22 [INFO] Main main 115
+2023-10-29 22:05:22 [INFO] Main main 117
+2023-10-29 22:05:22 [INFO] Main main 119
+2023-10-29 22:05:22 [INFO] Main main 121
+2023-10-29 22:05:22 [INFO] Main main 123
+2023-10-29 22:05:22 [INFO] Main main 125
+2023-10-29 22:05:22 [INFO] Main main 127
+2023-10-29 22:05:22 [INFO] Main main 129
+2023-10-29 22:05:22 [INFO] Main main 131
+2023-10-29 22:05:22 [INFO] Main main 133
+2023-10-29 22:05:22 [INFO] Main main 135
+2023-10-29 22:05:22 [INFO] Main main 137
+2023-10-29 22:05:22 [INFO] Main main 139
+2023-10-29 22:05:22 [INFO] Main main 141
+2023-10-29 22:05:22 [INFO] Main main 143
+2023-10-29 22:05:22 [INFO] Main main 145
+2023-10-29 22:05:22 [INFO] Main main 147
+2023-10-29 22:05:22 [INFO] Main main 149
+2023-10-29 22:05:22 [INFO] Main main 151
+2023-10-29 22:05:22 [INFO] Main main 153
+2023-10-29 22:05:22 [INFO] Main main 155
+2023-10-29 22:05:22 [INFO] Main main 157
+2023-10-29 22:05:22 [INFO] Main main 159
+2023-10-29 22:05:22 [INFO] Main main 161
+2023-10-29 22:05:22 [INFO] Main main 163
+2023-10-29 22:05:22 [INFO] Main main 165
+2023-10-29 22:05:22 [INFO] Main main 167
+2023-10-29 22:05:23 [INFO] Main main 169
+2023-10-29 22:05:23 [INFO] Main main 171
+2023-10-29 22:05:23 [INFO] Main main 173
+2023-10-29 22:05:23 [INFO] Main main 175
+2023-10-29 22:05:23 [INFO] Main main 177
+2023-10-29 22:05:23 [INFO] Main main 179
+2023-10-29 22:05:23 [INFO] Main main 181
+2023-10-29 22:05:23 [INFO] Main main 183
+2023-10-29 22:05:23 [INFO] Main main 185
+2023-10-29 22:05:23 [INFO] Main main 187
+2023-10-29 22:05:23 [INFO] Main main 189
+2023-10-29 22:05:23 [INFO] Main main 191
+2023-10-29 22:05:23 [INFO] Main main 193
+2023-10-29 22:05:23 [INFO] Main main 195
+2023-10-29 22:05:23 [INFO] Main main 197
+2023-10-29 22:05:23 [INFO] Main main 199
+2023-10-29 22:05:23 [WARNING] Main main Example warning message
+2023-10-29 22:05:23 [SEVERE] Main main Example severe message
+2023-10-29 22:05:23 [INFO] Main main Program ending at : 29-10-2023 22:05:23

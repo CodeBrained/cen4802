@@ -16,6 +16,11 @@ public class Log {
         fh = new FileHandler(fileName, true);
         logger = Logger.getLogger("test");
         logger.addHandler(fh);
+
+        // Modify settings for the logging formatter to format each log as:
+        //      <YYYY-MM-DD> <hh:mm:ss> <LogLevel> <ClassName> <MethodName> <LogMessage>
+        // Example: 2023-10-29 21:55:56 WARNING Main main Example warning message
+        System.setProperty("java.util.logging.SimpleFormatter.format", "%1$tF %1$tT [%4$s] %2$s %5$s%6$s%n");
         SimpleFormatter formatter = new SimpleFormatter();
         fh.setFormatter(formatter);
     }

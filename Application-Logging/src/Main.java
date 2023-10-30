@@ -43,7 +43,7 @@ public class Main {
             // Appending program end time to log.txt
             currentTime = LocalDateTime.now();
             formattedDateTime = currentTime.format(formatter);
-            myLog.logger.fine("Program ending at : " + formattedDateTime);
+            myLog.logger.info("Program ending at : " + formattedDateTime);
 
         } catch (IOException e) {
             throw new RuntimeException(e);
